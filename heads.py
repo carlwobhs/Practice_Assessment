@@ -5,7 +5,8 @@
     description: Practice assessment task
 
 '''
-
+#---------libraries-------------------------------------
+import random 
 
 
 #--------main routine----------------------
