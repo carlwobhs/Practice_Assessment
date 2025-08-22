@@ -5,3 +5,10 @@
     description: Practice assessment task
 
 '''
+
+
+
+#--------main routine----------------------
+name = input('Enter your name: ') #get user name
+age = int(input('Enter your age: '))  #get users age
+
